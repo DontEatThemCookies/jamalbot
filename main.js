@@ -173,6 +173,6 @@ client.on('message', message =>{
 
 )
 
-client.login('ODEzMDYxNzIyMTE3NTA1MDU1.YDJ0vA.pNv-UpT02xojhUo7aB7F-X-ntjQ');
+client.login('CENSORED');
 
 
